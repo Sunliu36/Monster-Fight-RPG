@@ -1,5 +1,13 @@
 MONSTER FIGHT RPG
 ===
+「遊玩方式」
+---
+1. 下載整個repo
+2. 開啟eclipse（或你自己喜好的ide,這裡以eclipse為例）
+3. File -> Import -> General -> Existing Projects into Workspace -> Select root directory -> 選擇這個repo的地址 -> 選單最下方按finish
+4. 在Package Explorer找到MonsterGame資料夾 -> src -> main -> Main.java -> 視窗最上面按下Run
+5. 開始遊玩 Have Fun !!!
+
 I.	專題簡介
 ---
 這學期學習到的JavaFX剛好可以做為畫面呈現，所以這次Project我們這組決定做一款RPG遊戲。RPG全名Role-Playing Game，遊戲中玩家會扮演角色進行遊玩，透過與敵人戰鬥升等、收集裝備。在monsterGame中我們使用簡易的計分系統，玩家擊敗不同等級的怪物會獲得不同的分數，模擬RPG遊戲特色。
